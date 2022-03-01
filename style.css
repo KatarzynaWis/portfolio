@@ -332,19 +332,19 @@ body {
   background: rgb(226, 82, 113);
 }
 .about__skills-bar--html {
-  width: 95%;
+  width: 90%;
 }
 .about__skills-bar--css {
   width: 90%;
 }
 .about__skills-bar--js {
-  width: 60%;
+  width: 80%;
 }
 .about__skills-bar--react {
-  width: 0%;
+  width: 80%;
 }
-.about__skills-bar--scss {
-  width: 0%;
+.about__skills-bar--git {
+  width: 60%;
 }
 .about__skills-bar--bitbucket {
   width: 85%;
